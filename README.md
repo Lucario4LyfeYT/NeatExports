@@ -9,9 +9,9 @@ This works for both EMM and ODIOUS exports, I will add support for more clients 
 
 1.) Name the exported ODIOUS file to "ODIOUS.txt" (without quotes)
 
-2.) Put "EMM.txt" in same folder as "ExportEmmOdiousToReadable.jar"
+2.) Put "EMM.txt" in same folder as "export 1.0.jar"
 
-2.) Put "ODIOUS.txt" in same folder as "ExportEmmOdiousToReadable.jar"
+2.) Put "ODIOUS.txt" in same folder as "export 1.0.jar"
 
 You don't need both of the files for this to work, only one file is needed
 
