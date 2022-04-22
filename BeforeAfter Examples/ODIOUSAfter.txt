@@ -1,4 +1,4 @@
 Avatar ID: avtr_53f78ae8-ed85-403d-87c1-6e2526c9a8da
 Avatar NAME: BitBot2․0
-IMAGEURL: https://api.vrchat.cloud/api/1/image/file_ca9601bc-d1b1-471e-bf90-3b3879bbe8a2/1/256
+ImageURL: https://api.vrchat.cloud/api/1/image/file_ca9601bc-d1b1-471e-bf90-3b3879bbe8a2/1/256
 ----------------------------------------------------------------------------------------------
