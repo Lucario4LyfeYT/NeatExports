@@ -6,8 +6,11 @@ This is useful if you're sending exported avatars to people through discord and 
 This works for both EMM and ODIOUS exports, I will add support for more clients if requested (not like anyones gonna use this, this shit's very niche)
 
 1.) Name the exported EMM file to "EMM.txt" (without quotes)
+
 1.) Name the exported ODIOUS file to "ODIOUS.txt" (without quotes)
+
 2.) Put "EMM.txt" in same folder as "ExportEmmOdiousToReadable.jar"
+
 2.) Put "ODIOUS.txt" in same folder as "ExportEmmOdiousToReadable.jar"
 
 You don't need both of the files for this to work, only one file is needed
