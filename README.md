@@ -1,4 +1,7 @@
 # NeatExports
+
+VRCHAT
+
 Make exported avatar lists look neat (Only supports EMM and ODIOUS lists at the moment)
 
 This is useful if you're sending exported avatars to people through discord and you don't want to spend time manually editing the export file to look neat
