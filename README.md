@@ -1,6 +1,6 @@
 # NeatExports
 
-VRCHAT
+Very niche thing to clean some VRCHAT client export lists to make then look neat
 
 Make exported avatar lists look neat
 
