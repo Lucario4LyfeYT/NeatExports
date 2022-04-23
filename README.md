@@ -2,19 +2,29 @@
 
 VRCHAT
 
-Make exported avatar lists look neat (Only supports EMM and ODIOUS lists at the moment)
+Make exported avatar lists look neat
+
+This application only supports Exported Avatar Lists from these mods
+
+https://emmvrc.com/
+
+https://github.com/notunixian/odious
+
+https://github.com/FelkonEx/FavCat-Restored
 
 This is useful if you're sending exported avatars to people through discord and you don't want to spend time manually editing the export file to look neat
-
-This works for both EMM and ODIOUS exports, I will add support for more clients if requested (not like anyone's gonna use this anyways, this shit's very niche)
 
 1.) Name the exported EMM file to "EMM.txt" (without quotes)
 
 1.) Name the exported ODIOUS file to "ODIOUS.txt" (without quotes)
 
-2.) Put "EMM.txt" in same folder as "export 1.0.jar"
+1.) Name the exported FavCatRestored file to "FavCatRestored.txt" (without quotes)
 
-2.) Put "ODIOUS.txt" in same folder as "export 1.0.jar"
+2.) Put "EMM.txt" in same folder as "export 1.1.jar"
+
+2.) Put "ODIOUS.txt" in same folder as "export 1.1.jar"
+
+2.) Put "FavCatRestored.txt" in same folder as "export 1.1.jar"
 
 You don't need both of the files for this to work, only one file is needed
 
