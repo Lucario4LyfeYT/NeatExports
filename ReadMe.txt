@@ -24,7 +24,7 @@ This is useful if you're sending exported avatars to people through discord and 
 
 2.) Put "FavCatRestored.txt" in same folder as "export 1.1.jar"
 
-3.) Goto https://r12a.github.io/app-conversion/ if you're using "FavCatRestored.txt" and convert it to js with these settings, then copy-paste the converted text to your "FavCatRestored.txt" and it'll fix every issue with unicode characters crashing the jar file, or you could build from the source and run it in a java IDE like blueJ or Eclipse or something and that'll work without the need to convert the text.
+3.) https://user-images.githubusercontent.com/86382621/164879599-4d1c7906-7a68-46c2-89eb-d2ec3045a442.mp4
 
 You don't need both of the files for this to work, only one file is needed
 
