@@ -13,7 +13,7 @@ public class AvatarExportToDiscordFormat{
             try {myWriter = new FileWriter("NeatEMM.txt");}catch (IOException e){}
             cL = fileReader.nextLine();
             while (true){
-                if (fileReader.hasNext() == false) break;
+                if (!fileReader.hasNext()) break;
                 if (!cL.contains("avatar_id") && !cL.contains("avatar_name")){
                     cL = fileReader.nextLine();
                     continue;
@@ -35,7 +35,7 @@ public class AvatarExportToDiscordFormat{
             try {myWriter = new FileWriter("NeatODIOUS.txt");}catch (IOException e){}
             cL = fileReader.nextLine();
             while (true){
-                if (fileReader.hasNext() == false) break;
+                if (!fileReader.hasNext()) break;
                 else if (cL.isEmpty()) cL = fileReader.nextLine();
                 try{myWriter.write("Avatar ID: "+ cL.substring(0,41));}catch(IOException e){}
                 cL=cL.substring(42,cL.length());
@@ -59,15 +59,19 @@ public class AvatarExportToDiscordFormat{
             try {myWriter = new FileWriter("NeatFavCatRestored.txt");}catch (IOException e){}
             cL = fileReader.nextLine();
             while (true){
-                if (fileReader.hasNext() == false) break;
-                cL = fileReader.nextLine();
-                try{myWriter.write("Avatar ID: "+ cL.substring(0,41));}catch(IOException e){}
+                if (!fileReader.hasNextLine()){break;}
+                try{myWriter.write("Avatar ID: "+ cL.substring(0,41));myWriter.flush();}catch(IOException e){}
                 cL=cL.substring(42,cL.length());
-                try{myWriter.write("\nAvatar Name: "+ cL.substring(0,cL.lastIndexOf("by")-1));}catch(IOException e){}
+                try{myWriter.write("\nAvatar Name: "+ cL.substring(0,cL.lastIndexOf("by")-1));myWriter.flush();}catch(IOException e){}
                 cL=cL.substring(cL.lastIndexOf("by")+2,cL.length());
-                try{myWriter.write("\nAuthor Name:"+ cL + "\n----------------------------------------------------\n");}catch(IOException e){}
-                try{myWriter.flush();}catch(IOException e){}
+                try{myWriter.write("\nAuthor Name:"+ cL + "\n----------------------------------------------------\n");myWriter.flush();}catch(IOException e){}
+                cL = fileReader.nextLine();
             }
+            try{myWriter.write("Avatar ID: "+ cL.substring(0,41));myWriter.flush();}catch(IOException e){}
+            cL=cL.substring(42,cL.length());
+            try{myWriter.write("\nAvatar Name: "+ cL.substring(0,cL.lastIndexOf("by")-1));myWriter.flush();}catch(IOException e){}
+            cL=cL.substring(cL.lastIndexOf("by")+2,cL.length());
+            try{myWriter.write("\nAuthor Name:"+ cL + "\n----------------------------------------------------");myWriter.flush();}catch(IOException e){}
             fileReader = null;
         }
         System.exit(0);
