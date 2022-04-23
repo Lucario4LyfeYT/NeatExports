@@ -1,0 +1,204 @@
+Avatar ID: avtr_ca32a46f-03c1-4247-8f66-cf6c1cafdebf
+Avatar Name: Sue
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_16711c6a-0221-4922-b6e7-9191b06fa287
+Avatar Name: Tim
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_712e5c3c-2deb-4cae-a414-79b2a814a90b
+Avatar Name: Unity-chan
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_cd0a883e-df2b-411f-8832-c0a1328b477c
+Avatar Name: Vanguard
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_f764f3c5-4ee5-48f0-82d0-aabf95a2c8f3
+Avatar Name: Venice Man
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_334c59de-1a9b-4b70-8a0d-8a89829da7cb
+Avatar Name: Venice Woman
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_d988d7bb-5bfd-4cbc-884e-a6a0e7a6c338
+Avatar Name: X-Bot
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_53856003-8ff2-4002-b78f-da5d028b22bd
+Avatar Name: Y-Bot
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_3a66fee0-6247-45b3-aea9-1dac5b1375e9
+Avatar Name: Zander (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_578cb469-1553-4dda-a481-b9306330ce2c
+Avatar Name: Zombie Man
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_4a7f179e-16f9-448a-9b49-8c6fe5183916
+Avatar Name: Zombie Woman
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_a0a74bd1-cea5-4488-976d-1f5814f4f705
+Avatar Name: Speedball Red
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_2c89a846-a9a5-48f4-94d3-c7050368c75e
+Avatar Name: Speedball Blue
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_d3462c30-7a99-4e83-b1ca-07c5c97187e1
+Avatar Name: Skellington
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_d720f33e-ed8d-4b1e-8d74-9735e17c87d5
+Avatar Name: Robot Kyle
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11
+Avatar Name: Robot
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_67691b3b-2c7b-4f8b-914c-b1af0bc821f8
+Avatar Name: Reporter Woman
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_87f46572-85a3-4a2f-bbc2-aa2299dbe3e6
+Avatar Name: Reesa (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_b7653de5-d6d1-4a3d-ba76-598d0bbc2024
+Avatar Name: Rebecca
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_ddaafbdc-b5be-4a6c-b58b-3f1fdb8afb63
+Avatar Name: Pearl
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_c0d0b0ac-3a29-4f5a-a6d4-3ef3c24c6d75
+Avatar Name: Papyrus
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_2e7e04a1-72b5-4ea3-a09c-53c305843543
+Avatar Name: Paladin
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_b5c8ef23-46dc-48f4-844e-f5dd3b300b92
+Avatar Name: Nikei (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_564bfaa8-ae68-4c60-853e-b992e38cfd39
+Avatar Name: Nicole (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_9cc715f1-fb50-4f37-87b2-3b3b62af948f
+Avatar Name: Murray
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_06f54de7-c466-4091-afd0-143f9006814a
+Avatar Name: MR Bot
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_c71e0a2d-75d3-4d57-8dd5-072bf2358684
+Avatar Name: MN-03 "Ghost"
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_a53b9eee-3ed3-472f-8535-aa3a34826dde
+Avatar Name: MN-02 "Flame"
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_ae950e3e-d30e-45ed-8086-de280f9b92fa
+Avatar Name: MN-01 "Shadow"
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_803d5e62-73a5-470b-9d2c-d570bc34c349
+Avatar Name: Military Man
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_baa3da9c-6407-496d-be5b-95b7e35003b8
+Avatar Name: Maurice
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_28b689c6-e5c9-4ad6-bc28-894517d5d466
+Avatar Name: Manny
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_365b18b9-dd0d-4843-b151-703b1457fa42
+Avatar Name: Leprechaun
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_d694f4e2-c4a0-47cc-af3d-544eb5d88d40
+Avatar Name: Joe
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_82afbcf1-824d-47bb-bf39-f0a90e8f7912
+Avatar Name: Jason (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_e0cd883c-826a-4dbf-b814-07d50de380c0
+Avatar Name: Janice
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_1597e56b-a5f7-4566-b15d-e98abe2ef398
+Avatar Name: Janet (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_f8a44774-8416-41e5-9270-1c25e6401fab
+Avatar Name: Gundang
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_2b9aa5f3-d9c8-4fbc-aec4-4565e97ee733
+Avatar Name: Dana (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_40f2a44b-a73b-49db-a20c-ef7a0dc8c025
+Avatar Name: Cyber Elf
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_cff1fe2b-60f4-416f-b141-ea9a6eccda09
+Avatar Name: Claire
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_76aa5286-5c83-448a-969c-fba40ff90352
+Avatar Name: Business Woman
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_4fbb97b3-4643-4b68-a03e-61cb832b9a3b
+Avatar Name: Business Man
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_33608d4e-c669-436b-8ebb-ca803e289a31
+Avatar Name: Bonejangles
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_9e478c76-a2f7-420a-949d-b99596c9e972
+Avatar Name: Bishop
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_6e28b399-840f-4300-9310-9623cf75bfb6
+Avatar Name: Biker Woman
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_8817179b-c2c9-49d0-8d38-a60bab51e016
+Avatar Name: Biker Man
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_1ef9774d-6298-42f7-a6b6-d43973fb38a5
+Avatar Name: Amy
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_91cb42f9-24d1-48ec-91e4-1b1ab0d0c3b0
+Avatar Name: Ally
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_b440bdb0-61ab-4906-a471-35fadaf7add5
+Avatar Name: Alexa (Morph3D)
+Author Name: vrchat
+----------------------------------------------------
+Avatar ID: avtr_2fe914c1-7d2a-4308-9219-a719150246e4
+Avatar Name: AFK_Avatar_1
+Author Name: vrchat
+----------------------------------------------------
