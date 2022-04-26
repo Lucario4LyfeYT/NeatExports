@@ -26,7 +26,7 @@ This is useful if you're sending exported avatars to people through discord and 
 
 2.) Put "FavCatRestored.txt" in same folder as "export 1.1.jar"
 
-3.)
+3.) Use https://r12a.github.io/app-conversion/ to fix "FavCatRestored" Video below on how to use it
 
 https://user-images.githubusercontent.com/86382621/164879599-4d1c7906-7a68-46c2-89eb-d2ec3045a442.mp4
 
